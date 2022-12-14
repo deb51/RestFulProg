@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person name="debasish">
+	<age>20</age>
+	<address>
+		<location>MBJ</location>
+		<pin>757041</pin>
+	</address>
+</person>

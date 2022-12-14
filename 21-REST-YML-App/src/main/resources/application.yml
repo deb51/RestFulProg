@@ -1,0 +1,10 @@
+
+server:
+  port: 9090
+
+  
+
+myapp: 
+  messages:
+    welcomeMsg: Welcome Debasish
+    greetingMsg: Good Morning Debasish 

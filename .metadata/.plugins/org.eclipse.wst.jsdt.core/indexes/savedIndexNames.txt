@@ -1,0 +1,10 @@
+INDEX VERSION 1.4+F:\RestFun&MicroServices\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+708696777.index
+3226801827.index
+4125162237.index
+3992932502.index
+91026933.index
+1155685127.index
+4025566930.index
+3215652072.index
+3828773103.index
